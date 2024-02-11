@@ -47,11 +47,11 @@ To run the EventHub project locally, follow these steps:
 
 6. Open 2 terminal tabs and start both frontend and backend
 
-    For Frontend (<your-directory/EventHub>)
+    - For Frontend (<your-directory/EventHub>)
     ```bash
     npm run dev
-
-    For Backend (<your-directory/EventHub/backend/>)
+    ```
+    - For Backend (<your-directory/EventHub/backend/>)
     ```bash
     npm start
 
